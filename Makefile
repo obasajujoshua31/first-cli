@@ -8,3 +8,5 @@ format:
 	go fmt ./...
 add-odd:
 	practCLI add odd 1 3 4 5 8 9 4 6
+login:
+	practCLI login -e example@example.com -p example
